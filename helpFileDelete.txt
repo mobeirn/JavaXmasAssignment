@@ -1,0 +1,16 @@
+---------------------------- Delete Words Help ---------------------------
+--------------------------------------------------------------------------
+Delete all instances of a particular word
+--------------------------------------------------------------------------
+To delete all instances of a particular word, type in 2 from the Main menu,
+then type 3 in the Search menu, then type 1 in the Delete Words menu.
+Type in the word you wish to delete when asked.
+You will be asked for confirmation before the word is deleted.
+--------------------------------------------------------------------------
+Delete a word at a particular index
+--------------------------------------------------------------------------
+To delete a word at a particular index, type in 2 from the Main menu,
+then type 3 in the Search menu, then type 2 in the Delete Words menu.
+Type in the index of word you wish to delete when asked.
+You will be asked for confirmation before the word is deleted.
+--------------------------------------------------------------------------

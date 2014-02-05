@@ -1,0 +1,20 @@
+--------------------------- Index Search Help ------------------------------
+--------------------------------------------------------------------------
+Find first index position of a word
+--------------------------------------------------------------------------
+To find the first index position of a word, type in 2 from the Main menu,
+then type 1 in the Search menu, then type 1 in the Search Indices menu.
+Type in the word you are looking for when asked.
+--------------------------------------------------------------------------
+Find last index position of a word
+--------------------------------------------------------------------------
+To find the last index position of a word, type in 2 from the Main menu,
+then type 1 in the Search menu, then type 2 in the Search Indices menu.
+Type in the word you are looking for when asked.
+--------------------------------------------------------------------------
+Find all index positions of a word
+--------------------------------------------------------------------------
+To find all the index positions of a word, type in 2 from the Main menu,
+then type 1 in the Search menu, then type 3 in the Search Indices menu.
+Type in the word you are looking for when asked.
+--------------------------------------------------------------------------

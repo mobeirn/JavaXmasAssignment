@@ -1,0 +1,18 @@
+--------------------------- Replace Words Help ---------------------------
+--------------------------------------------------------------------------
+Replace all instances of a particular word
+--------------------------------------------------------------------------
+To replace all instances of a particular word, type in 2 from the Main menu,
+then type 2 in the Search menu, then type 1 in the Replace Words menu.
+Type in the word you are looking for when asked.
+Type in the replacement word when asked.
+You will be asked for confirmation before the word is replaced.
+--------------------------------------------------------------------------
+Replace a word at a particular index
+--------------------------------------------------------------------------
+To replace a word at a particular index, type in 2 from the Main menu,
+then type 2 in the Search menu, then type 2 in the Replace Words menu.
+Type in the index of word you are looking for when asked.
+Type in the replacement word when asked.
+You will be asked for confirmation before the word is replaced.
+--------------------------------------------------------------------------

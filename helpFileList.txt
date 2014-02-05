@@ -1,0 +1,12 @@
+----------------------------- List Words Help ----------------------------
+--------------------------------------------------------------------------
+List all words
+--------------------------------------------------------------------------
+To list all words, type in 2 from the Main menu,then type 4 in the Search
+menu. Warning, this may take a VERY long time.
+--------------------------------------------------------------------------
+List all unique words
+--------------------------------------------------------------------------
+To list all unique words, type in 2 from the Main menu,then type 5 in the
+Search menu. Warning, this may take a VERY long time.
+--------------------------------------------------------------------------

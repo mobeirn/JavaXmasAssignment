@@ -1,0 +1,16 @@
+------------------------ Parsing Help -----------------------------
+-------------------------------------------------------------------
+To parse a file, type in 1 from the main menu.
+Then type 1 to parse a .txt file (also works for
+.doc files and .odt files). If this is one of the
+sample files simply type out the name.
+  eg: PoblachtNaHEireann.txt
+-------------------------------------------------------------------
+If it is a file on your computer be sure to type out
+the full path, this will vary depending on the system.
+Example given is for a windows system, yours may vary
+  eg:C:\Users\your_name\Documents\PoblachtNaHEireann.txt
+-------------------------------------------------------------------  
+If it is a URL type out the entire URL
+  eg:http://learnonline.gmit.ie/mod/resource/PoblachtNaHEireann.txt
+-------------------------------------------------------------------

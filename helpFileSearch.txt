@@ -1,0 +1,23 @@
+--------------------------- Statistics Help ------------------------------
+--------------------------------------------------------------------------
+Get size of container
+--------------------------------------------------------------------------
+To find the size of the container, type in 3 from the Main menu.
+Then type 1 in the Statistics menu.
+--------------------------------------------------------------------------
+Count the total number of words
+--------------------------------------------------------------------------
+To find the number of words, type in 3 from the Main menu.
+Then type 2 in the Statistics menu, then 1 in the Count Words menu.
+--------------------------------------------------------------------------
+Count the total number of a particular word
+--------------------------------------------------------------------------
+To find the number of words, type in 3 from the Main menu.
+Then type 2 in the Statistics menu, then 2 in the Count Words menu.
+Type in the word you want to replace when asked.
+--------------------------------------------------------------------------
+Count all distinct words
+--------------------------------------------------------------------------
+To find the number of distinct words, type in 3 from the Main menu.
+Then type 2 in the Statistics menu, then 3 in the Count Words menu.
+--------------------------------------------------------------------------

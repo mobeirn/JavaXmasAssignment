@@ -1,0 +1,17 @@
+------------------------ Html Parsing Help ------------------------
+-------------------------------------------------------------------
+To parse a html file and remove formatting, type in 1 from the
+main menu.
+Then type 2 to parse a .html file. If this is one of the
+sample files simply type out the name.
+  eg: Sample.html
+-------------------------------------------------------------------
+If it is a file on your computer be sure to type out
+the full path, this will vary depending on the system.
+Example given is for a windows system, yours may vary
+  eg:C:\Users\your_name\Documents\Sample.html
+-------------------------------------------------------------------  
+If it is a URL type out the entire URL
+  eg:http://learnonline.gmit.ie/mod/resource/Sample.html
+-------------------------------------------------------------------
+The output will have all html tags and information stripped out
